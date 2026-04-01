@@ -38,8 +38,13 @@ This project is a Machine Learning-based Login Intrusion Detection System that d
 
 │
 ├── app.py
+
 ├── login_data.csv
+
 ├── login.db
+
 ├── requirements.txt
+
 └── templates/
+
 └── index.html
